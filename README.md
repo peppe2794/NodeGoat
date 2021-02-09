@@ -18,7 +18,7 @@ The database comes pre-populated with these user accounts created as part of the
 
 ## How to Set Up Your Copy of NodeGoat
 
-### OPTION 1 - Run NodeGoat on your machine
+### OPTION 1 - Run NodeGoat on your machine:
 
 1) Install [Node.js](http://nodejs.org/) - NodeGoat requires Node v8 or above
 
